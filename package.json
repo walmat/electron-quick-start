@@ -18,5 +18,10 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^9.0.0"
+  },
+  "dependencies": {
+    "request": "^2.88.2",
+    "tough-cookie": "^4.0.0",
+    "uuidv4": "^6.1.0"
   }
 }
